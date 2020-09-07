@@ -1,0 +1,100 @@
+Ensembles à imprimer :
+	- Piece a imprimer
+	- Piece a imprimer
+	- ...
+
+
+
+Armoire électrique :
+	- Armoire electrique : 40g 2h30 PLA
+
+Groupe pompe à chaleur :
+	- Pompe : 115g 6h PLA
+
+Ballons d'eau :
+	- Ballon 100L : 5g 20min PLA
+	- Ballon 300L : 10g 35min PLA
+
+Pompe d'extraction (x3) :
+	- Pompe  extraction : 50g 3h résine
+	- Support pompe extraction : 15g 1h PLA
+
+Echangeur thermique :
+	- Echangeur : 5g 2h résine
+	- Support echangeur : 2g 5min PLA
+
+Socle : 10€
+Paroie plexi : 40€
+
+
+===================== Tuyaux tout résine =====================
+
+Tuyau 1 : 1g 5h30
+	- Bride a collerette (x3)
+	- Tuyau 1.1
+	- Tuyau 1.2 (x3) (courbe)
+	- Tuyau 1.3
+	- Tuyau 1.4
+	- Tuyau 1.5
+
+Tuyau 2 : 1g 4h
+	- Bride a collerette (x2)
+	- Tuyau 2.1
+	- Tuyau 2.2 (x3) (courbe)
+	- Tuyau 2.3
+	- Tuyau 2.4
+	- Tuyau 2.5
+	- Petite bride a collerette
+
+Tuyau 3 : 1,5g 4h30
+	- Bride a collerette (x5)
+	- Tuyau 3.1
+	- Tuyau 3.2 (x4) (courbe)
+	- Tuyau 3.3
+	- Tuyau 3.4
+	- Tuyau 3.5
+	- Tuyau 3.6
+	- Tuyau 3.7
+
+Tuyau 4 : 1g 6h40
+	- Bride a collerette (x2)
+	- Tuyau 4.1
+	- Tuyau 4.2 (courbe)
+	- Tuyau 4.3
+
+Tuyau 5 : 1g 5h05
+	- Bride a collerette (x2)
+	- Tres petite bride a collerette
+	- Moyenne bride a collerette
+	- Tuyau 5.1
+	- Tuyau 5.2
+	- Tuyau 5.3
+	- Tuyau 5.4 (x2) (courbe)
+	- Tuyau 5.5
+	- Tuyau 5.6
+	- Tuyau 5.7
+
+Tuyau 6 : 1g 3h10
+	- Bride a collerette
+	- Tuyau 6.1
+	- Tuyau 6.2 (courbe)
+	- Tuyau 6.3
+	- Tuyau 6.4
+
+Tuyau 7 : 1g 1h15
+	- Bride a collerette
+	- Tres petite bride a collerette
+	- Tuyau 7.1
+	- Tuyau 7.2
+
+Tuyau 8 : 1g 1h20
+	- Bride a collerette
+	- Petite bride a collerette
+	- Tuyau 8.1
+	- Tuyau 8.2
+
+Tuyau 9 : 1g 45min
+	- Bride a collerette (x2)
+	- Très petite bride a collerette
+	- Tuyau 9.1
+	- Tuyau 9.2
