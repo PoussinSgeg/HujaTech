@@ -1,0 +1,10 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl car_ex90
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.227451 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd Volvo_EX90_2024/car_ex90.png
+

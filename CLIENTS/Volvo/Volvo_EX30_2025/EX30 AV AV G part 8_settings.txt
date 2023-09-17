@@ -1,0 +1,31 @@
+Application version: 2.32.0.0
+Estimated print time: 4h 44m
+Material usage: 23.01m (55g)
+Printer: Zortrax M200
+Profile: Last settings
+Support type: Automatic
+Support: 20°
+Material: Z-ABS
+Nozzle diameter: 0.4 mm
+Layer: 0.19 mm
+Quality: Draft
+Infill: 10%
+Fan speed: Auto
+Seam: Normal
+Outer contours: 0.00
+Holes: 0.00
+Surface layers Top: 4
+Surface layers Bottom: 4
+Support Lite: No
+Smart bridges: No
+Support offset: No
+First layer Density: 100%
+First layer Print speed: 100%
+First layer Flow ratio: 100%
+First layer gap: 0.21 mm
+Raft Enabled: No
+Model lift: 0 mm
+Brim offset: 0.00 mm
+Brim width: 0 pcs
+Support Density: 4.00 mm
+Gap XY: 0.53
